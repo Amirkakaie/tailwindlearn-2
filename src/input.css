@@ -1,4 +1,7 @@
 @import "tailwindcss";
 @theme{
+    
     --font-roboto:"Sigmar", sans-serif;
+
+    --color-primary:#F5EEDD;
 }
